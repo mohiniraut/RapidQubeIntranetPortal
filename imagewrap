@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<head>
+<Style>
+#conport{
+background-color:blue;
+color:white;
+}
+ #conport h3{
+color:red;
+} 
+#portfolioid {
+
+background-color:pink;
+
+ background-image: url("/home/mohinir/Desktop/RapidQubeStaticPage (copy) Duplicate/creative-agency/img/blockchain2.jpeg");
+    background-size: cover; 
+ background-repeat: no-repeat;
+}
+</style>
+</head>
+</head>
+<body>
+
+<div class="jumbotron text-center" id="portfolioid">
+  <h1>Featured Works</h1>
+</div>
+  
+<div class="container" id="conport">
+
+
+  <div class="row">
+<div class="imgport"><h3>Blockchain</h3>
+    <img style="float: left; padding: 0px 0px 0px 5px;" src="/home/mohinir/Desktop/RapidQubeStaticPage (copy) Duplicate/creative-agency/img/blo2.jpeg" alt="fig1" width="150" height="150" />
+ <p> A blockchain is a digitized, decentralized, public ledger of all cryptocurrency transactions. Constantly growing as ‘completed’ blocks (the most recent transactions) are recorded and added to it in chronological order, it allows market participants to keep track of digital currency transactions without central recordkeeping. Each node (a computer connected to the network) gets a copy of the blockchain, which is downloaded automatically.
+
+Originally developed as the accounting method for the virtual currency Bitcoin, blockchains – which use what's known as distributed ledger technology (DLT) – are appearing in a variety of commercial applications today. Currently, the technology is primarily used to verify transactions, within digital currencies though it is possible to digitize, code and insert practically any document into the blockchain. Doing so creates an indelible record that cannot be changed; furthermore, the record’s authenticity can be verified by the entire community using the blockchain instead of a single centralized authority.
+</p>
+
+</div>
+
+
+<div class="imgport"><h3>Multichain</h3>
+    <img style="float: left; padding: 0px 0px 0px 5px;" src="/home/mohinir/Desktop/RapidQubeStaticPage (copy) Duplicate/creative-agency/img/multi.jpeg" alt="fig1" width="150" height="150" />
+ <p> The MultiChain technology is a platform that helps users to establish a certain private Blockchains that can be used by the organizations for financial transactions. A simple API and a command-line interface are what MultiChain provides us. This helps to preserve and set up the chain.
+</p>
+<h5>MultiChain helps organizations to build and deploy blockchain applications with speed.</h5>
+<b>1.Rapid Deployment</b><p>Just two simple steps to create a new blockchain, and three to connect to an existing one. Deploy unlimited blockchains per server for cross-chain applications.</p>
+
+<b>2.Unlimited assets</b>
+<p>Issue millions of assets on a blockchain, all tracked and verified at the network level. Perform safe multi-asset and multi-party atomic exchange transactions.</p>
+
+<b>3.Data streams</b>
+<p>Create multiple key-value, time series or identity databases on a blockchain. Ideal for data sharing, timestamping and encrypted archiving.</p>
+
+<b>4.Fine-grained permissions</b>
+<p>Optionally control who can connect, send and receive transactions, create assets, streams and blocks. Each blockchain is as open or as closed as you need.</p>
+
+</div>
+
+<div class="imgport"><h3>NEM</h3>
+    <img style="float: left; padding: 0px 0px 0px 5px;" src="/home/mohinir/Desktop/RapidQubeStaticPage (copy) Duplicate/creative-agency/img/blo1.png" alt="fig1" width="150" height="150" />
+ <p> NEM is a peer-to-peer cryptocurrency and blockchain platform launched on March 31, 2015.[1] Written in Java,[2] with a C++ version in the works,[3] NEM has a stated goal of a wide distribution model and has introduced new features to blockchain technology such as its proof-of-importance (POI) algorithm, multisignature accounts, encrypted messaging, and an Eigentrust++ reputation system. The NEM blockchain software is used in a commercial blockchain called Mijin,[4] which is being tested by financial institutions and private companies in Japan and internationally.[5]
+</p>
+
+</div>
+
+ </div>
+</div>
+
+</body>
+</html>
+
